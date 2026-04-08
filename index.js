@@ -29,7 +29,7 @@ app.use(express.json());
 
 // Test route
 app.get('/', (req, res) => {
-  res.send('CRM Backend Running 🚀 github pipline working');
+  res.send('CRM Backend Running 🚀');
 });
 
 
